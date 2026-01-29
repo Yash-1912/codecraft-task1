@@ -46,7 +46,8 @@ Please download the dataset from the above link and place it in the project fold
 ### Visualization
 **Population Distribution Bar Chart**
 
-![Population Distribution Bar Chart](output/population_distribution_2022.png)
+<img width="640" height="480" alt="population_bar_chart" src="https://github.com/user-attachments/assets/362fe680-5d12-4173-a216-606335d32e42" />
+
 
 ---
 
