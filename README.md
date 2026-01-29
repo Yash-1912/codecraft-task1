@@ -16,9 +16,6 @@ Create a bar chart to visualize the distribution of population data using a real
 **Dataset Source:**  
 https://data.worldbank.org/indicator/SP.POP.TOTL
 
-**Note:**  
-The dataset file is not uploaded to this repository.  
-Please download the dataset from the above link and place it in the project folder before running the code.
 
 ---
 
